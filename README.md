@@ -42,4 +42,4 @@
 _“It is better to be a warrior in a garden, than a gardener in a war.” ― Miyamoto Musashi, The Book of Five Rings_  
 <!-- Example: "I code best with 90s rock music 🎸 and green tea 🍵" -->
 
-![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=AshainS.HTML-CSS-JS-Projects)
+<!-- ![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=AshainS.HTML-CSS-JS-Projects) -->
