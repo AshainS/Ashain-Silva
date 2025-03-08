@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 **My Tech Stack**  
-![Your Skills](https://skillicons.dev/icons?i=java,js,php,py,css,html,tailwind,laravel,eclipse,git,github,figma,illustrator,photoshop,3dmax,vscode&theme=light&perline=10)
+![Your Skills](https://skillicons.dev/icons?i=java,js,php,py,css,html,tailwind,laravel,eclipse,git,github,figma,illustrator,photoshop,3dsmax,vscode&theme=light&perline=10)
 
 ---
 
