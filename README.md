@@ -1,5 +1,4 @@
-# Hi there, I'm Ashain Silva! 👋  
-### _Aspiring Software Developer | Creator | Tech Enthusiast_  
+# Hi there, I'm Ashain Silva! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=HNDIT+Graduate;Full-Stack+Developer;Creative+Web+Developer;Attention+to+Detail;Lifetime+Learner;Problem+Solver" alt="Typing SVG" />
