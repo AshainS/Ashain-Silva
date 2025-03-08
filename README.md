@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 **My Tech Stack**  
-![Your Skills](https://skillicons.dev/icons?i=java,js,php,py,css,html,tailwind,laravel,eclipse,git,github,figma,illustrator,photoshop,3dsmax,vscode&theme=light&perline=10)
+![Your Skills](https://skillicons.dev/icons?i=java,js,php,py,css,html,tailwind,laravel,mysql,eclipse,git,github,figma,illustrator,photoshop,vscode&theme=light&perline=10)
 
 ---
 
@@ -16,6 +16,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshainS&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshainS&layout=compact&theme=radical" />
 </p>
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshainS&theme=onedark&row=2&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -42,3 +45,9 @@ _“It is better to be a warrior in a garden, than a gardener in a war.” ― M
 <!-- Example: "I code best with 90s rock music 🎸 and green tea 🍵" -->
 
 <!-- ![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=AshainS.HTML-CSS-JS-Projects) -->
+
+[![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)](https://platane.github.io/snk)
+
+
+
+
