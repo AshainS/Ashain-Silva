@@ -2,13 +2,13 @@
 ### _Developer | Creator | Tech Enthusiast_  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Always+Learning;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+Learning;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🔥 **My Tech Stack**  
-![Your Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,aws,git,github,figma,vscode&theme=light&perline=5)
+![Your Skills](https://skillicons.dev/icons?i=java,js,py,css,html,tailwind,laravel,eclipse,git,github,figma,illustrator,photoshop,vscode&theme=light&perline=5)
 
 ---
 
